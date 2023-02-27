@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JoybundlerApplication<joybundler>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bowang.joybundler.JoybundlerApplication",
+            "projectName": "joybundler",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
